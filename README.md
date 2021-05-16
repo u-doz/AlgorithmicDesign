@@ -25,7 +25,7 @@ Third Homework:
 to deal with graphs that can be fully represented in the memory of your
 computer. Implement:
 
-(a) an algorithm to add the shortcuts to a graph;
+  (a) an algorithm to add the shortcuts to a graph;
 
-(b) a bidirectional version of Dijkstra algorithm that can operate on the
-graphs decorated by the algorithm at Point 2a.
+  (b) a bidirectional version of Dijkstra algorithm that can operate on the
+      graphs decorated by the algorithm at Point 2a.
