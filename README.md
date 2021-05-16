@@ -15,3 +15,17 @@ auxiliary matrices and test the effects on the execution time;
 
 4. answer to the following question: how much is the minimum auxiliary
 space required to evaluate the Strassen’s algorithm? Motivate the answer.
+
+
+Third Homework:
+
+1. Implement the binary heap-based version of the Dijkstra’s algorithm.
+
+2. Consider the contraction hierarchies presented during the course. Assume
+to deal with graphs that can be fully represented in the memory of your
+computer. Implement:
+
+(a) an algorithm to add the shortcuts to a graph;
+
+(b) a bidirectional version of Dijkstra algorithm that can operate on the
+graphs decorated by the algorithm at Point 2a.
